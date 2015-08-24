@@ -6,6 +6,9 @@
 </head>
 
 <body>
+<style>
+h1{background-color:#900;}
+</style>
 <h1>Audi Challenge</h1>
 <form name="form-audi" id="form-audi">
 	<input type="hidden" name="accion" value="guardar" />
