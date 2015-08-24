@@ -14,6 +14,9 @@
     <label>Correo</label><input type="text" name="correo" id="correo" /><br />
     <label>Celular</label><input type="text" name="celular" id="celular" /><br />
     <label>¿Tienes celular?</label><input type="radio" name="celular" value="SI" /><input type="radio" name="celular" value="NO" /><br />
+    <label>Universidad</label><select name="universidad" id="universidad">
+    						  	<option value="U. Central">U. Central</option>
+                              </select><br />
    	<a href="javascript:;" id="enviar-form">Enviar</a>
 </form>
 
