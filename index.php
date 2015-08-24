@@ -20,6 +20,7 @@ h1{background-color:#900;}
     <label>Universidad</label><select name="universidad" id="universidad">
     						  	<option value="U. Central">U. Central</option>
                               </select><br />
+    <label>Marca</label><input type="text" name="marca" id="marca" /><br />                          
    	<a href="javascript:;" id="enviar-form">Enviar</a>
 </form>
 
