@@ -11,6 +11,9 @@
 	<input type="hidden" name="accion" value="guardar" />
     <label>Nombre</label><input type="text" name="nombre" id="nombre" /><br />
     <label>Apellido</label><input type="text" name="apellido" id="apellido" /><br />
+    <label>Correo</label><input type="text" name="correo" id="correo" /><br />
+    <label>Celular</label><input type="text" name="celular" id="celular" /><br />
+    <label>¿Tienes celular?</label><input type="radio" name="celular" value="SI" /><input type="radio" name="celular" value="NO" /><br />
    	<a href="javascript:;" id="enviar-form">Enviar</a>
 </form>
 
