@@ -9,6 +9,8 @@
 
 <form name="form-audi" id="form-audi">
 	<input type="hidden" name="accion" value="guardar" />
+    <label>Nombre</label><input type="text" name="nombre" id="nombre" /><br />
+    <label>Apellido</label><input type="text" name="apellido" id="apellido" /><br />
    	<a href="javascript:;" id="enviar-form">Enviar</a>
 </form>
 
